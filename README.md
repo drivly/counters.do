@@ -39,8 +39,8 @@ Our Drivly Open Philosophy has these key principles:
 
 ##  🚀 We're Hiring!
 
-[Driv.ly](https://driv.ly) is deconstructing the complex world of automotive commerce into simple, unified APIs and AI workflows – empowering any developer or brand to build automotive businesses. We're funded by some of the biggest names in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
+[Driv.ly](https://driv.ly) is deconstructing the complex world of automotive commerce into simple, unified APIs and AI workflows – empowering any developer or brand to build automotive businesses. We're funded by some of the biggest names in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc).
 
-Our entire infrastructure is built with [Cloudflare Workers](https://workers.do), [Durable Objects](https://durable.objects.do), [KV](https://kv.cf), [PubSub](https://pubsub.do), [R2](https://r2.do.cf), [Pages](https://pages.do), etc.  [If you love build AI the Cloudflare Workers ecosystem as much as we do](https://driv.ly/loves/workers), we'd love to have you [join our team](https://careers.do/apply)!
+Our entire infrastructure is built with [Cloudflare Workers](https://workers.do), [Durable Objects](https://durable.objects.do), [KV](https://kv.cf), [PubSub](https://pubsub.do), [R2](https://r2.do.cf), [Pages](https://pages.do), etc.  [If you love the Cloudflare Workers ecosystem as much as we do](https://driv.ly/loves/workers), we'd love to have you [join our team](https://careers.do/apply)!
 
 
